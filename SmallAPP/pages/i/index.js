@@ -3,8 +3,8 @@
 var app = getApp()
 Page( {
   data: {
-    userInfo: {avatarUrl:'../../image/avator.jpg',nickName:'qieangel2013'},
-    source: 'https://github.com/qieangel2013/SmallApp'
+    userInfo: {avatarUrl:'../../image/avator.jpg',nickName:'xiaohao'},
+    source: 'https://github.com/wh1084/xiaohao/SmallApp'
   },
   //事件处理函数
   bindViewTap: function() {
